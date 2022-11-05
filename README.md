@@ -1,1 +1,1 @@
-# Academic-counselor-ETG-assignment-by-Rituparna-Addy
+# Django Web Framework Task
